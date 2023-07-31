@@ -1,0 +1,21 @@
+WhatsApp  interface with a custom app bar and three tabs: "Camera," "Chat," "Status," and "Calls." 
+The "Chat" tab displays a list of chat contacts, "Status" tab shows status updates, and the "Calls" tab lists call history. 
+The app bar has a title, search and more options icons, and a pop-up menu with options like "New Group," "Settings," and "Logout." 
+The chat and call lists show profile pictures, names, and timestamps. 
+The design mainly uses `ListView.builder` to generate dynamic lists and incorporates custom widgets for grouping status updates.
+
+Widgets Used:
+HomeScreen (Stateful Widget)
+AppBar
+TabBar
+TabBarView
+Scaffold
+Text
+Container
+Icon
+DefaultTabController
+ListTile
+CircleAvatar
+Column
+ListView.builder
+PopupMenuButton
