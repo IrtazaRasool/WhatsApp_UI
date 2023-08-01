@@ -4,10 +4,10 @@ This Flutter app is a simple WhatsApp clone that mimics the basic functionality 
 
 ## Screenshots
 
-<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/e130f2b1-9658-4e0d-a40c-fe2fcf152066" width="300">
-<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/018084a3-aef2-43a1-bd86-ec51015d5abb" width="300">
-<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/fd12f99a-2f77-44d5-818a-edae8c30343f" width="300">
-<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/ef25ea60-44af-41c6-8e81-4e3939c978e9" width="300">
+<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/e130f2b1-9658-4e0d-a40c-fe2fcf152066" width="200">
+<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/018084a3-aef2-43a1-bd86-ec51015d5abb" width="200">
+<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/fd12f99a-2f77-44d5-818a-edae8c30343f" width="200">
+<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/ef25ea60-44af-41c6-8e81-4e3939c978e9" width="200">
 
 
 ## Features
