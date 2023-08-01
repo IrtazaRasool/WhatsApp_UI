@@ -5,9 +5,10 @@ This Flutter app is a simple WhatsApp clone that mimics the basic functionality 
 ## Screenshots
 
 <img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/e130f2b1-9658-4e0d-a40c-fe2fcf152066" width="300">
-<img src="github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/9875963b-0729-4ff8-9ee7-fb7e1e2fa852" width="300">
-<img src="github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/369a53ea-e6a5-4c43-b10e-04feb76115af" width="300">
-<img src="github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/49def804-89bf-4c4e-bcc0-b0cb6800c6fd" width="300">
+<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/018084a3-aef2-43a1-bd86-ec51015d5abb" width="300">
+<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/fd12f99a-2f77-44d5-818a-edae8c30343f" width="300">
+<img src="https://github.com/IrtazaRasool/WhatsApp_UI/assets/141081749/ef25ea60-44af-41c6-8e81-4e3939c978e9" width="300">
+
 
 ## Features
 
@@ -25,7 +26,7 @@ Make sure you have Flutter and Dart installed on your development machine. You c
 
 ### Installation
 
-1. Clone this repository to your local machine using ``.
+1. Clone this repository to your local machine using `https://github.com/IrtazaRasool/WhatsApp_UI.git`.
 2. Open the project in your preferred IDE or editor.
 
 ### Running the App
